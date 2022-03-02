@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milaaancode
+- 👋 Hi, I’m Milan
 - 👀 I’m interested in programming<3
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
